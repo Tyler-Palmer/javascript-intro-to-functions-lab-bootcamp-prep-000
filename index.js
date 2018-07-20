@@ -20,6 +20,8 @@ function logWhisper(whisper)
 }
 //lowerCase Grandma
 function sayHiToGrandma(string) {
-  if (string === 'hello')
+  if (string === 'hello') {
+    return('')
+  }
 }
 }
