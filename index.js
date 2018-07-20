@@ -26,7 +26,7 @@ function logWhisper(whisper)
 //logMixed
 function logMixed(mixed)
 {
-  console.log('I love you, Grandma')
+  console.log('I love you, Grandma.')
 }
 //Grandma
 function sayHiToGrandma(string) {
