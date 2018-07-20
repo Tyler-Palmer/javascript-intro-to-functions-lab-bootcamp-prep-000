@@ -8,6 +8,11 @@ function whisper(string)
 {
   return string.toLowerCase()
 }
+//mixed
+function mixed(string)
+{
+  return string.toMixedCase()
+}
 //logShout
 function logShout(shout)
 {
@@ -17,6 +22,11 @@ function logShout(shout)
 function logWhisper(whisper)
 {
   console.log('hello')
+}
+//logMixed
+function logMixed(mixed)
+{
+  console.log('I love you,')
 }
 //Grandma
 function sayHiToGrandma(string) {
